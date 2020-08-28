@@ -2,15 +2,15 @@
 
 [![Gitter](https://badges.gitter.im/MinhasKamal/DownGit.svg)](https://gitter.im/MinhasKamal/DownGit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-#### Create GitHub Directory Download Link
+#### Crear link de descarga para carpetas de Github
 
-With this tool you can directly download or create download link to any GitHub public directory.
+Con esta herramienta puedes descargar directamente una carpeta de un respositorio de github publico o crear un enlace de descarga
 
-### Website
+### Sitio Web
 
-[DownGit ↑](https://minhaskamal.github.io/DownGit)
+[DownGit ↑](https://downgit.asmodeosnetworkco.tk)
 
-### How to Use?
+### Como se Usa?
 
 ![DownGit User Manual](https://cloud.githubusercontent.com/assets/5456665/17822364/940bded8-6678-11e6-9603-b84d75bccec1.gif)
 
